@@ -33,7 +33,7 @@ This project focuses on developing a comprehensive recommendation system for bab
     - Recommendations for Interacted Users: For users who have interacted with the products, the system identifies the cluster labeling of the products. It recommends highly-rated products within the same cluster if the user rates a product poorly and also suggests highly-rated products from other clusters to encourage diversity.
     - Recommendations for New Users: For users who have not yet interacted with any products, the system recommends highly-rated products from all clusters, ensuring a broad range of recommendations.
 
-<img src="reports/figures/fig5_recom_content.png" alt="f7" width="600">
+<img src="reports/figures/fig5_recom_content.png" alt="f7" width="800">
 
 ### 3b: Memory-based recommendation: Collaborative filtering
 
